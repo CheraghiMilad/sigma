@@ -4059,3 +4059,17 @@ https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized
 https://www.trendmicro.com/en_us/research/18/d/new-macos-backdoor-linked-to-oceanlotus-found.html
 https://ssd-disclosure.com/ssd-advisory-common-log-file-system-clfs-driver-pe/
 https://web.archive.org/web/20180718061628/https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2
+https://github.com/redcanaryco/atomic-red-team/blob/5f866ca4517e837c4ea576e7309d0891e78080a8/atomics/T1040/T1040.md#atomic-test-16---powershell-network-sniffing
+https://www.virustotal.com/gui/search/behaviour_processes%253A%2522C%253A%255C%255CWindows%255C%255CSysWOW64%255C%255Cmore.com%2522%2520behaviour_processes%253A%2522C%253A%255C%255CWindows%255C%255CMicrosoft.NET%255C%255CFramework%255C%255Cv4.0.30319%255C%255Cvbc.exe%2522/files
+https://learn.microsoft.com/en-us/windows/win32/debug/configuring-automatic-debugging
+https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#disable-quick-assist-within-your-organization
+https://www.howtogeek.com/137270/50-file-extensions-that-are-potentially-dangerous-on-windows
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
+https://learn.microsoft.com/en-us/windows/win32/shell/app-registration
+https://github.com/sadshade/veeam-creds/blob/6010eaf31ba41011b58d6af3950cffbf6f5cea32/Veeam-Get-Creds.ps1
+https://medium.com/@shaherzakaria8/downloading-trojan-lumma-infostealer-through-capatcha-1f25255a0e71
+https://tria.ge/231023-lpw85she57/behavioral2
+https://www.wiz.io/blog/how-to-set-secure-defaults-on-aws
+https://www.spamhaus.org/reputation-statistics/cctlds/domains/
+https://web.archive.org/web/20180203014709/https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=c426ac876c48
+https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/?123
