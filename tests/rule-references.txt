@@ -4164,3 +4164,17 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://man7.org/linux/man-pages/man1/dmesg.1.html
+https://catalyst.prodaft.com/public/report/inside-the-latest-espionage-campaign-of-nebulous-mantis
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/system-registry-no-backed-up-regback-folder
+https://www.joesandbox.com/analysis/1467354/0/html
+https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-monitor-federation-changes
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-identity-roles.html
+https://www.pwndefend.com/2022/01/07/log4shell-exploitation-and-hunting-on-vmware-horizon-cve-2021-44228/
+https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/
+https://www.elastic.co/security-labs/maas-appeal-an-infostealer-rises-from-the-ashes
+https://asec.ahnlab.com/en/40263/
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#malware-linked-ip-address-deprecated
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
+https://medium.com/system-weakness/detecting-as-rep-roasting-attacks-b5b3965f9714
+https://web.archive.org/web/20200530031906/https://techtalk.pcmatic.com/2017/11/30/running-dll-files-malware-analysis/
