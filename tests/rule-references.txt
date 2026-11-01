@@ -4164,3 +4164,13 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://www.loobins.io/binaries/launchctl/
+https://ss64.com/osx/sw_vers.html
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4616
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#non-compliant-device-sign-in
+https://learn.microsoft.com/en-us/sql/t-sql/statements/truncate-table-transact-sql?view=sql-server-ver16
+https://web.archive.org/web/20180203014709/https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=c426ac876c48
+https://gtfobins.github.io/gtfobins/curl/
+https://learn.microsoft.com/en-us/entra/id-protection/howto-identity-protection-configure-mfa-policy
+https://research.splunk.com/endpoint/7215831c-8252-4ae3-8d43-db588e82f952
+https://tria.ge/240226-fhbe7sdc39/behavioral1
